@@ -1,2 +1,2 @@
 # next
-my first next app
+this is my first next js app
